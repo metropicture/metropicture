@@ -5,7 +5,7 @@
 Run the following command to output machine code:
 
 ```bash
-cargo build --target x64.json
+cargo build
 ```
 
 ## Bootable disc image
@@ -19,5 +19,5 @@ cargo install bootimage
 Run the following command to output a bootable disc image:
 
 ```bash
-cargo bootimage --target x64.json
+cargo bootimage
 ```

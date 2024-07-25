@@ -9,5 +9,5 @@ cargo install bootimage
 Run the kernel in QEMU through:
 
 ```plain
-cargo xrun --target x64.json -- [QEMU arguments]
+cargo xrun -- [QEMU arguments]
 ```
