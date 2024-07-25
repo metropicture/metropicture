@@ -11,6 +11,7 @@ Ensure you have installed the [QEMU machine emulator and virtualizer](https://ww
 Run the following commands:
 
 ```bash
+rustup target add x64.json
 rustup component add rust-src
 cargo install bootimage
 ```
