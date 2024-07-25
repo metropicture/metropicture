@@ -1,10 +1,10 @@
 # Running
 
-Ensure you have installed the `bootimage` helper through:
+<blockquote>
 
-```bash
-cargo install bootimage
-```
+Ensure you have done the [local setup](LOCALSETUP.md).
+
+</blockquote>
 
 Run the kernel in QEMU through:
 

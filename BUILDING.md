@@ -1,5 +1,11 @@
 # Building
 
+<blockquote>
+
+Ensure you have done the [local setup](LOCALSETUP.md).
+
+</blockquote>
+
 ## Machine code
 
 Run the following command to output machine code:
@@ -9,12 +15,6 @@ cargo build
 ```
 
 ## Bootable disc image
-
-Ensure you have installed the `bootimage` helper through:
-
-```bash
-cargo install bootimage
-```
 
 Run the following command to output a bootable disc image:
 
