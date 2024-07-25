@@ -12,6 +12,5 @@ Run the following commands:
 
 ```bash
 rustup component add rust-src
-cargo install cargo-xbuild
 cargo install bootimage
 ```

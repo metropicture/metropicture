@@ -9,5 +9,5 @@ Ensure you have done the [local setup](LOCALSETUP.md).
 Run the kernel in QEMU through:
 
 ```plain
-cargo xrun -- [QEMU arguments]
+cargo run -- [QEMU arguments]
 ```
