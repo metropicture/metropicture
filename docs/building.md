@@ -2,7 +2,7 @@
 
 <blockquote>
 
-Ensure you have done the [local setup](LOCALSETUP.md).
+Ensure you have done the [local setup](localsetup.md).
 
 </blockquote>
 
