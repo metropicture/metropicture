@@ -19,5 +19,5 @@ cargo install bootimage
 Run the following command to output a bootable disc image:
 
 ```bash
-cargo bootimage --target x85.json
+cargo bootimage --target x64.json
 ```
