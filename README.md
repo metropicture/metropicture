@@ -16,6 +16,10 @@ Current tutorial part: [Minimal Rust kernel: Printing to screen](https://os.phil
 
 Currently migrating project structure conforming to the Booting or Create Disk Image section described in the [Bootloader crate home](https://github.com/rust-osdev/bootloader/blob/HEAD/docs/create-disk-image.md).
 
+### Status 3
+
+[Question](https://users.rust-lang.org/t/install-json-target-in-rustup/114985) about local target
+
 </details>
 
 ## Building
