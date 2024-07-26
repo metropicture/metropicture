@@ -34,10 +34,10 @@ Read the following files in case you need to build or debug the operating system
 
 [Local setup](docs/localsetup.md) - Requirements
 
-[Building](docs/building.md) - Build object code or an IMG disc image
+[Building](docs/building.md) - Build object code or a disc image
 
-[Running](docs/running.md) - Debug the kernel
+[Running](docs/running.md) - Debug the operating system
 
 ## License
 
-Apache 2.0
+The codebase is modified from the `post-03` branch from the [Writing OS in Rust blog series](https://os.phil-opp.com/). It is both Apache 2.0 and MIT.
