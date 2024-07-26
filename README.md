@@ -20,6 +20,12 @@ Currently migrating project structure conforming to the Booting or Create Disk I
 
 [Question](https://users.rust-lang.org/t/install-json-target-in-rustup/114985) about local target
 
+Solved: install the official `x86_64-unknown-none` target and discard the `x64.json` specification from the repository.
+
+### Status 4
+
+Resuming tutorial.
+
 </details>
 
 ## Building
